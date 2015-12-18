@@ -40,6 +40,7 @@ class ViewController: UIViewController {
         
         self.view.addSubview(catImage)
         
+        
     }
     
     func produceDie(){
